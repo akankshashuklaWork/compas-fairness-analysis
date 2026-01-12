@@ -237,8 +237,8 @@ Contributions are welcome! Areas for contribution:
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@akankshashukla](https://github.com/akankshashuklaWork)
+- Email: akanksha.shukla@sjsu.edu
 
 ## 🙏 Acknowledgments
 
